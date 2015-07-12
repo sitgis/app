@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>items</key>
+    <dict><key>items</key>
     <array>
         <dict>
             <key>assets</key>
@@ -13,19 +12,37 @@
                     <key>url</key>
                     <string>http://gis.sit.edu.cn/app/app/sitGIS.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://download.xyzs.com/ios/icon-114.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://download.xyzs.com/ios/icon-114.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
                 <string>gis.unifri.com</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string></string>
                 <key>kind</key>
                 <string>software</string>
+                <key>subtitle</key>
+                <string>xyzs</string>
                 <key>title</key>
-                <string>sitGIS.ipa</string>
+                <string>gis</string>
             </dict>
         </dict>
     </array>
-</dict>
+    </dict>
 </plist>
